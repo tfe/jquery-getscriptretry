@@ -1,0 +1,12 @@
+getScriptRetry v1.0 (2010-10-08)
+http://github.com/tfe/jquery-getscriptretry
+
+Extended version of jQuery.getScript() that retries failed requests and (bonus!) allows responses to be cached.
+
+© 2010 Todd Eichel (http://toddeichel.com/)
+Licensed under the MIT license: http://www.opensource.org/licenses/mit-license.php
+
+Inspiration:
+ - http://harrybailey.com/2010/03/more-powerful-jquery-getscript-with-cache-control/
+ - http://zeroedandnoughted.com/defensive-ajax-and-ajax-retries-in-jquery/
+ - http://github.com/execjosh/jquery-ajax-retry/
